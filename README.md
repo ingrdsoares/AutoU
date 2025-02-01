@@ -45,7 +45,7 @@ pip install flask flask-cors transformers nltk openai pymupdf
 
 ### Passo 1: Clonar o Repositório
 ```sh
-git clone https://github.com/seu-usuario/EmailClassifier.git
+git clone https://github.com/ingrdsoares/EmailClassifier.git
 cd EmailClassifier
 ```
 
